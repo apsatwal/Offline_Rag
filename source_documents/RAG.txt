@@ -1,0 +1,460 @@
+Guidance for the use of medicinal cannabis in the treatment of chronic non-cancer pain in Australia
+
+On this page: Introduction | 1. Summary of evidence of effects of MC on patients with CNCP | 2. Use of THC/CBD combinations or products | 3. Dosage and other pharmacological considerations | 4. Place in the therapeutic hierarchy | 5. Summary of evidence of effects of medicinal cannabis use on physical functioning, emotional functioning and patients' global impression of change in CNCP patients | 6. Tolerability of and withdrawal from treatment | 7. Reviewing a patient's response to medicinal cannabis | 8. Recommended process for auditing patient outcomes | 9. Adverse events, drug-drug interactions, or patient groups for whom the product may pose particular risks | References | Appendix 1. Study flowcharts | Appendix 2. Quality of current evidence
+Introduction
+A set of guidance documents has been made available to assist doctors and their patients who choose to prescribe medicinal cannabis in Australia under current access schemes. These have been developed based on reviews of available evidence for the use of medicinal cannabis in five different settings. Included is an overview addressing the evidence base for medicinal cannabis therapy generally as well as specific documents relating to medicinal cannabis in the treatment of palliative care, epilepsy, chemotherapy-induced nausea and vomiting (CINV), multiple sclerosis (MS) and chronic pain
+The preprocessed text after removing unnecessary spaces, special characters, and specific patterns is as follows:
+
+ally as well as specific documents relating to medicinal cannabis in the treatment of palliative care, epilepsy, chemotherapy-induced nausea and vomiting (CINV), multiple sclerosis (MS) and chronic pain.
+This document reflects the evidence supporting the use of medicinal cannabis in treating chronic pain and the recommendations of the Chronic Pain Working Group.
+Note: These guidance documents are based on evidence available at the time of publication and will be updated as new evidence emerges. Each document should be read in conjunction with the 'Guidance to the use of medicinal cannabis in Australia - Overview'.
+In September 2017 a workshop was held in Sydney to discuss the review of the available evidence for the use of medicinal cannabis (medicinal cannabis) in patients with chronic non-cancer pain (CNCP). Workshop participants included representatives from consumer groups, medical colleges, special societies and states and territories.
+Review method
+There has been substantial interest in the potential utility of medicinal cannabis for use in chronic non-cancer pain (CNCP) conditions, which impose considerable burden on patients by adversely affecting multiple facets of their lives. A number of weaknesses of recent systematic reviews of evidence of medicinal cannabis for pain, including those by Whiting and colleagues, and Nugent and colleagues warranted a new review. These weaknesses varied across studies, but included: a lack of clarity around the pain conditions
+The text after preprocessing:
+
+including those by Whiting and colleagues, and Nugent and colleagues warranted a new review. These weaknesses varied across studies, but included: a lack of clarity around the pain conditions included; no stratification to consider potential differences in effects of different cannabinoids; no stratification of cannabinoids effects on different CNCP conditions; inclusion of a limited range of cannabinoids; limiting evidence to randomised controlled trials (RCT); a lack of clarity in reporting of pain outcomes; and limited examination of study withdrawals and adverse events. The current review addressed all of these issues.
+The Australian Government Department of Health commissioned a team from the University of New South Wales, University of Sydney and University of Queensland under the coordination of the National Drug and Alcohol Council (NDARC) to review the available evidence for the use of medicinal cannabis in the above five settings.
+The researchers conducted a review of previously published reviews from multiple databases such as Medline, Embase, PsychINFO and EBM Reviews based on PRISMA145. PRISMA is the Preferred Reporting Items for Systematic Reviews and Meta-Analyses, and is an evidence-based minimum set of items for reporting on randomised controlled trials (RCTs). These guidelines have been developed because of concern for low quality trials and aim to improve the quality of medical research, remove bias and improve transparency and accurate reporting of
+The guidelines have been developed because of concern for low quality trials and aim to improve the quality of medical research, remove bias and improve transparency and accurate reporting of findings. Searches were guided by a specialist Librarian using specific search terms and were limited to studies published between 1980 and early 2017. Two reviewers independently examined titles and abstracts for relevance using Covidence Software and the Cochrane Risk of Bias Tool was used to assess studies, aiming to increase accuracy. The GRADE approach, an internationally recognised standard applying to weighting of evidence in scientific and medical literature was used to evaluate the quality of evidence.
+In July 2017, the department also convened five separate Working Groups to consider the available evidence for the use of medicinal cannabis in the treatment of each of the settings. The five groups consist of individuals from a wide range of backgrounds and organisations, including senior staff from each state and territory Department of Health, fifteen healthcare professional organisations, clinical staff from twenty-nine hospitals and healthcare systems, fourteen outpatient or Primary Health Networks and eighteen consumer representative groups. The chronic non-cancer pain (CNCP) working group met in Sydney in September 2017.
+The working group noted that the available studies were of variable quality.
+The chronic non-cancer pain (CNCP) working group met in Sydney in September 2017.
+The working group noted that the available studies were of variable quality, with the design of many at high risk of bias. The workshop concluded overall that there is evidence of limited efficacy for both plant-based cannabis preparations and for synthetic cannabinoids in some patients with CNCP. However, the workshop noted the generally very modest effect of medicinal cannabis on pain intensity. Put simply, only one person in 22-26 treated with medicinal cannabis would get significant pain relief. The workshop also noted the significant potential for adverse events in patients treated with medicinal cannabis, including reduced physical function, demotivation, tolerance, depression, paranoia, psychosis and loss of intellectual capacity and that available studies were short term, of variable quality and with the design of many at high risk of bias.
+The workshop noted that although there was some evidence for improvement in sleep patterns with medicinal cannabis treatment compared with placebo, there was no improvement in overall quality of life with medicinal cannabis. Significantly, there was also no difference in overall physical functioning, a more robust
+Treatment compared with placebo, there was no improvement in overall quality of life with medicinal cannabis. Significantly, there was also no difference in overall physical functioning, a more robust measure of treatment outcome than self-reported visual analogue pain scores.
+In the setting of CNCP, potential new pharmacotherapeutic agents such as medicinal cannabis need to be considered alongside established therapeutic approaches. Active self-management strategies, which generally incorporate a reduction in drug utilization (particularly high risk opioids) have a proven place in the treatment of CNCP.
+The workshop concluded that although there is evidence of limited efficacy of medicinal cannabis in refractory neuropathic pain when used in conjunction with traditional analgesics, current evidence has not defined a clear place for medicinal cannabis in the treatment of patients with CNCP.
+A summary of the cannabinoids used is presented in Table 1.
+Recommendations
+A comprehensive sociopsychobiomedical assessment of the patient with CNCP is appropriate;
+The use of medications, including medicinal cannabis, is not the core component of therapy for CNCP;
+Patient education is a critical component of therapy for CNCP, particularly with respect to expectations of drug therapy; and
+There is a need for larger trials of sufficient quality, size and duration to examine the safety and efficacy of medicinal cannabis use in CNCP.
+Conditions characterized by CNCP are varied, and pain is co
+Following is the preprocessed text after removing unnecessary spaces, special characters, and specific patterns:
+
+Here is a need for larger trials of sufficient quality, size and duration to examine the safety and efficacy of medicinal cannabis use in CNCP.
+Conditions characterised by CNCP are varied, and pain is considered by leading researchers to be only one of a range of core outcomes that must be considered in trials of any intervention. In examining pain, it has been recommended that not only there be a change in pain scores, but also that the reduction is a meaningful i.e. 30%, or substantial, i.e. 50% reduction. Here, we summarise evidence on the effects of medicinal cannabis on:
+A total of 102 studies examined the impact of medicinal cannabis on patients with CNCP. This included 26 parallel RCTs, 23 cross-over RCTS, and 53 observational studies. Some publications included multiple studies, thus the number of references cited herein will not always match the number of studies quoted. The process for selection of studies in the review is displayed in the PRISMA flowchart in Appendix 1.
+Table 2 shows the key to grading of quality of evidence for each of the outcomes we have reviewed in this document, based on GRADE. These grades reflect our confidence in the accuracy of the stated outcomes.
+Section 2 summarises findings of studies examining the effects of medicinal cannabis on patients with CNCP. Study withdrawal evidence is summarised in section 6 and adverse events evidence is summarised in section 9.
+Note that in this document, the number of included studies is not always
+The cleaned text is as follows:
+
+Patients with CNCP. Study withdrawal evidence is summarised in section 6 and adverse events evidence is summarised in section 9.
+Note that in this document, the number of included studies is not always the same as the number of publications, as some publications included multiple independent studies.
+1. Summary of evidence of effects of MC on patients with CNCP
+1.1. Any CNCP condition
+A meta-analysis of all randomised studies in CNCP averaging across all medicinal cannabis products indicated that medicinal cannabis was more likely than placebo to produce 30% and 50% reductions in pain scores and more likely than placebo to produce a significantly greater reduction in pain intensity ratings (see Table 3). Nabiximols, nabilone and THC extract, when separately examined, were much less consistently superior to placebo in producing a 30% reduction in pain or reducing average pain intensity. The lack of consistency for some individual cannabinoids probably reflects the small number of trials and their small sample sizes.
+Overall, we can be moderately confident that CNCP patients receiving medicinal cannabis are more likely to achieve 30% and 50% reductions in pain and to report a reduction in pain ratings than patients given a placebo. The evidence was strongest for nabiximols, which was the most likely cannabinoid to be associated with reduction in overall pain scores. Single studies of lesser quality suggest that nabilone, cannabis sativa, THC:CBD extracts and ajulemic acid may b
+The cleaned text:
+as the most likely cannabinoid to be associated with reduction in overall pain scores. Single studies of lesser quality suggest that nabilone, cannabis sativa, THC:CBD extracts and ajulemic acid may be more effective than placebo in producing a 30% reduction in pain. However, this evidence is limited by the small number of studies and their small samples which may mean that the therapeutic effect is substantially different from the effects reported to date.
+Of the 53 included observational studies of people living with CNCP, seven[5-10] examined pain outcomes and had a suitable comparison group, and these were entered into a meta-analysis. No observational study with a comparison group examined 30% reduction in pain (Table 4). One study[7] examined 50% reduction in pain in patients receiving either THC extract, CBD extract or THC:CBD extract compared to placebo, and found no significant evidence of effect. Six studies (three testing nabilone [5,8], and three testing cannabis sativa[6,9,10]) examined change in pain intensity, and found no significant evidence of effect.
+We considered all evidence from observational studies as low quality evidence.
+1.2. Specific pain conditions
+Table 5 summarises the randomised trial evidence for the impact of medicinal cannabis in CNCP upon pain, presented separately for each CNCP condition and each pain outcome. We have highlighted fibromyalgia, neuropathic pain and arthritis as these are commonly discussed CNCP conditions, although it should
+presented separately for each CNCP condition and each pain outcome. We have highlighted fibromyalgia, neuropathic pain and arthritis as these are commonly discussed CNCP conditions, although it should be noted that the definition of neuropathic pain particularly in these studies was unlikely to have been uniform. We have defined neuropathic pain as pain caused by a lesion or disease of the somatosensory nervous system. This definition was adopted in 2011 and it is therefore possible that studies done before this time included a more heterogenous subject population.
+The effects of medicinal cannabis in multiple sclerosis (MS)-related pain has been presented separately, given the number of studies examining pain (neuropathic and non-neuropathic) in MS, so that it is possible to assess the evidence for MS and for non-MS CNCP conditions.
+Conclusion
+Patients who used medicinal cannabis for MS-related neuropathic pain were more likely to experience a 30% reduction in pain, but our confidence in this evidence is low. Meta-analysis showed a non-statistically significant increase in the proportion of patients who achieved a 30% reduction in pain intensity (OR 1.21, 95% CI: 0.93,1.57). We can be moderately confident that patients who used cannabinoids for MS-related pain experienced a decrease in their pain scores compared with those who received a placebo. Similarly, patients who used medicinal cannabis for non-MS related neuropathic pain were more likely to experience a 50% reduction
+ease in their pain scores compared with those who received a placebo. Similarly, patients who used medicinal cannabis for non-MS related neuropathic pain were more likely to experience a 50% reduction in pain and a reduction in pain scores compared with patients taking a placebo. Patients with MS-related CNCP who receive medicinal cannabis are somewhat more likely to experience a 30% reduction in pain compared with those taking placebo, but our confidence in this finding is very low. There is insufficient information to make a recommendation about the role of medicinal cannabis in the treatment of pain associated with arthritis and fibromyalgia. Based on the analysis of different cannabinoids, nabiximol may have a modest effect in some CNCP conditions over a limited time period. However, there is a substantial risk of bias in the trials reviewed, tolerance is not addressed and the risk of harm with long term use of medicinal cannabis is poorly documented. Use of THC/CBD combinations or products One quarter of the studies (N= 26) evaluated the use of THC/CBD combinations in treating CNCP. Nabiximols (2.7mg THC:2.5mg CBD) was tested for the treatment of MS-related neuropathic or other CNCP. It was also trialled for the treatment of ALS-related CNCP, neuropathic pain of varying aetiology, and rheumatoid arthritis. THC:CBD products were trialled for the treatment of mixed CNCP, Parkinson's Disease-related CN
+CNCP31 neuropathic pain of varying aetiology and rheumatoid arthritis THC:CBD products were trialled for the treatment of mixed CNCP Parkinson's Disease-related CNCP and mixed neuropathic pain. Standardised dronabinol products were used in 17 studies, primarily for the treatment of mixed CNCP or mixed neuropathic pain and fibromyalgia Standardised nabilone products were used in 17 studies to treat fibromyalgia mixed CNCP and mixed neuropathic pain Dosage and other pharmacological considerations In this section: 3.1. Nabiximols 3.2. THC:CBD extracts 3.3. Dronabinol 3.4. THC extract 3.5. Nabilone 3.6. CBD extract 3.7. Cannabis sativa 3.8. Ajulemic Acid 3.1. Nabiximols Standardised nabiximols was delivered as an oromucosal spray delivering 2.7mg of THC and 2.5mg of CBD per spray. Nabiximols was most commonly used for the treatment of MS-related pain and spasticity. It was also studied in the treatment of a number of neuropathic pain conditions that included diabetic peripheral neuropathy, chemotherapy-induced neuropathic pain, and peripheral or central neuropathic pain. One RCT administered nabiximols as a treatment for pain in rheumatoid arthritis. Another RCT examined the therapeutic benefit of nabiximols for spasticity and pain in a
+14,20,22,32,67,77,103-105. One RCT administered nabiximols as a treatment for pain in rheumatoid arthritis. Another RCT examined the therapeutic benefit of nabiximols for spasticity and pain in amyotrophic lateral sclerosis (ALS).
+Patients receiving nabiximol for MS-related pain received a total daily dose ranging from 0.81mg THC / 0.75mg CBD, up to 129.6mg THC / 120mg CBD per day (this equates to 0.3 to 48 sprays per day). In randomised trials, total daily doses ranged from 2.7mg THC / 2.5mg CBD, and up to 129.6mg THC / 120mg CBD per day (this equates to 1 to 48 sprays per day). Treatment time ranged between 3 and 14 weeks in randomised controlled trials, and 6 to 62 weeks in observational studies.
+Patients receiving nabiximols for non-MS related neuropathic pain received a total daily dose ranging from 3.51mg THC / 3.25mg CBD, up to 130mg THC / 120mg CBD per day (this equates to 1.3 and 48 sprays per day). Treatment time ranged between 3 and 14 weeks in randomised controlled trials, and 26 to 42 weeks in observational studies.
+Patients receiving nabiximols for the treatment of pain from rheumatoid arthritis received a total daily dose ranging from 2.7mg THC / 2.5mg CBD to 16.2mg THC / 15mg CBD (this equates to between 1 and 6 sprays per day). Treatment duration was 5 weeks. For patients receiving nabiximols for the treatment of pain and spasticity associated with ALS, total daily dose was not reported by study authors. Treatment duration was 6 weeks.
+3.2. THC:CBD extract
+For patients receiving nabiximols for the treatment of pain and spasticity associated with ALS, total daily dose was not reported by study authors. Treatment duration was 6 weeks.
+THC:CBD extracts
+THC:CBD extracts were used in four studies of a variety of CNCP conditions that included MS-related pain106, pain associated with Parkinson's disease38, mixed neuropathic pain51, and mixed CNCP7. The THC:CBD extracts were administered as either standardised capsules or as a sublingual spray (see Table 1). Patients given THC:CBD extracts received a sublingual spray or capsule.
+For patients receiving THC:CBD extracts for the treatment of CNCP, total daily dose ranged from 2.5mg THC/2.5mg CBD to 97.5mg THC/97.5mg CBD. Treatment duration ranged between 4 and 12 weeks.
+In one study, patients received THC:CBD extracts for the treatment of neuropathic pain, with the total daily dose ranging from 2.5mg THC/2.5mg CBD to 120mg THC/120mg CBD; treatment duration was 2 weeks.
+Dronabinol
+Dronabinol was administered as a standardised product in an oral capsule when used to treat mixed CNCP12, 24, 25, 28, 41, 100, 107, neuropathic pain50, 61, 68, 95, 96, spinal cord injury49, 99, 108, and fibromyalgia18, 19. For patients receiving dronabinol for the treatment of mixed chronic non-cancer pain, total daily dose ranged from 2.5mg and 60mg. Treatment duration ranged from 1 day, up to 156 weeks in randomised studies, and 4 to 6 weeks in observational studies.
+For patients receiving drona
+For patients receiving dronabinol for the treatment of neuropathic pain, total daily dose ranged from 2.5mg and 25mg. Treatment duration ranged from 20 days to 8 weeks in randomised studies, and between 8 and 52 weeks for observational studies.
+For patients receiving dronabinol for treatment of fibromyalgia, total daily dose ranged from 10mg to 20mg, with a treatment duration of 8 to 12 weeks18,19. These are registered clinical trials without published results; dosage information should be treated with caution.
+THC extracts were generally standardised products that were delivered either in an oral capsule, or as an oromucosal spray when used to treat mixed chronic non-cancer pain fibromyalgia central neuropathic pain and multiple sclerosis-related neuropathic or mixed CNCP.
+For the treatment of MS-related neuropathic or other pain, patients received a total daily dose of THC extract ranging between 2.5mg and 120mg. Treatment duration ranged between 2 days and 12 weeks in randomised studies, and 108 weeks in observational studies.
+For the treatment of non-MS related CNCP, THC extract total daily dose in observational studies ranged between 2.5mg and 50mg, and treatment duration ranged between 2 and 20 weeks.
+In one study for the treatment of central neu
+S related CNCP, THC extract total daily dose in observational studies ranged between 2.5mg and 50mg, and treatment duration ranged between 2 and 20 weeks.
+In one study for the treatment of central neuropathic pain, total daily dose of THC extract was a maximum of 129.6mg; treatment duration was 2 weeks.
+One study used THC extract for the treatment of pain associated fibromyalgia. Total daily dose ranged between 2.5mg and 15mg, and treatment duration was 12 weeks.
+Nabilone
+Nabilone was delivered as a standardised oral capsule when used to treat pain due to fibromyalgia chronic non-cancer pain and peripheral, diabetes-related and multiple-sclerosis-related neuropathic pain. Nabilone total daily dose ranged between 0.25mg and 8mg. In randomised studies, total daily dose ranged between 0.25mg and 1mg, and treatment duration was between 4 and 8 weeks. In observational studies, treatment duration ranged between 4 and 16 weeks.
+For the treatment of mixed neuropathic pain, nabilone total daily dose ranged between 0.25mg and 4mg. Treatment duration ranged between 4 and 9 weeks in randomised studies, and went for 26 weeks in observational studies.
+For the treatment of pain due to fibromyalgia, nabilone total daily dose ranged between 0.5mg and 2mg. In randomised studies, treatment duration ranged between 2 and 4 weeks. One observational study followed patients for 52 weeks.
+CBD extract
+The two observational studies.
+Between 0.5mg and 2mg. In randomised studies, treatment duration ranged between 2 and 4 weeks. One observational study followed patients for 52 weeks.
+CBD extract
+The two observational studies that used CBD extracts to treat generalised chronic non-cancer pain delivered the CBD extract either as a standardised sublingual spray or as an oral capsule. Total daily dose of CBD extract ranged between 25mg and 150mg, and treatment duration lasted 12 weeks.
+Cannabis sativa
+Cannabis sativa was used in 26 studies to treat a number of pain conditions that included central or peripheral and HIV-related neuropathic pain, fibromyalgia, Multiple sclerosis-related chronic non-cancer pain, Parkinson's disease related chronic non-cancer pain, and generalised chronic non-cancer pain and neuropathic pain conditions. Cannabis sativa was less often used as a standardised product but some studies reported using standardised medicinal cannabis products. Some cannabis sativa was grown and harvested under the supervision of the US National Institute on Drug Abuse.
+Cannabis sativa was administered primarily as a herbal cigarette. In some cases, the cannabis was vaporised or administered through buccal absorption or oral ingestion. Dose ranges were less precise when herbal cannabis sativa was used. Dose was sometimes reported as the weight of cannabis cigarette, or by the THC-content of the cigarette.
+For the
+The cleaned text after preprocessing:
+For the treatment of chronic non-cancer pain, total daily dose of cannabis sativa (when reported) ranged between 0.9g and 13.4g of plant material. In one crossover trial, patients were administered 800mg of plant material that contained 4% THC. Treatment duration for this trial was 3 days. In observational studies, treatment duration ranged between 1 day and 4 years.
+For the treatment of neuropathic pain, total daily dose of cannabis sativa (when reported) ranged between 3 and 4mg of plant material containing between 1% and 12.5% THC. In randomised studies, treatment duration ranged between 1 and 5 days. In non-randomised studies, treatment duration ranged between 1 day and 6 months.
+Two observational studies reported total daily dose of cannabis sativa (when reported) ranged between 60mg and 120mg for the treatment of pain associated with fibromyalgia. Treatment duration ranged from 2 months to multiple years.
+Ajulemic acid
+Ajulemic acid (CT-3) was administered as a standardised oral capsule in one studyof mixed neuropathic pain. The dosage range was 20mg to 40mg administered twice per day. Treatment duration was one week.
+Recommendation
+In terms of mode of delivery there are concerns about the safety of smoked or vapourised cannabinoids. Delivery of pharmaceutical grade produc
+The cleaned text should be:
+per day. Treatment duration was one week.
+Recommendation
+In terms of mode of delivery there are concerns about the safety of smoked or vapourised cannabinoids. Delivery of pharmaceutical grade products such as nabiximols, dronabinol or THC extracts is safer.
+4. Place in the therapeutic hierarchy
+To determine the role of medicinal cannabis in treating CNCP, trials would need to compare cannabinoids to first and second-line treatment and no therapy. Trials would also be required to assess the role of medicinal cannabis as adjunctive treatment e.g. use in addition to other analgesics.
+Data on other whether medicinal cannabis was examined alone or alongside other drugs, allowing some ascertainment of the place in the therapeutic hierarchy. Of the 102 included studies, four examined medicinal cannabis as a first-line therapy, and 81 examined medicinal cannabis as a second-line therapy in addition to existing medication regimens. In 17 studies, the place of medicinal cannabis in the therapeutic hierarchy was not reported or could not be determined.
+In this section: 4.1. Evidence for cannabinoids as first-line therapy in CNCP | 4.2. Evidence for cannabinoids as second-line therapy in CNCP | 4.3. Potential opioid-sparing effects of medicinal cannabis use in CNCP | 4.4. Potential other analgesic-sparing effects of medicinal cannabis use in CNCP
+4.1. Evidence for cannabinoids as first-line therapy in CNCP
+In the four studies (n = 48 participants) where the cannabinoid was used as firs
+Analgesic-sparing effects of medicinal cannabis use in CNCP
+4.1. Evidence for cannabinoids as first-line therapy in CNCP
+In the four studies (n = 48 participants) where the cannabinoid was used as first-line therapy, two examined patients with fibromyalgia and two examined patients with neuropathic pain (one of which was MS-related neuropathic pain, and one neuropathic pain related to spinal cord injury). In these four studies, patients were required to titrate off regular pain medication between one to three weeks before the baseline period and cannabinoid therapy commenced. Average treatment length was 10 weeks. In one of these trials, pain medication (a combination of 5mg oxycodone and 325mg acetaminophen) was provided to manage breakthrough pain throughout the trial.
+None of the four studies in which medicinal cannabis was used as first-line treatment examined 30% reduction in pain as an outcome. Two studies examined 50% reduction in pain. The cross-over RCT by Svendsen and colleagues found that the odds of achieving 50% reduction in pain with medicinal cannabis was times greater than with placebo, however this was not significant (95% confidence interval 0.75 to 82.13), and when examined in a sensitivity test, this outcome did not differ from studies where the cannabinoid was used as second-line therapy. In the non-randomised pilot study by Schley and colleagues all four participants who completed cannabinoid therapy over three months.
+from studies where the cannabinoid was used as second line therapy. In the non-randomised pilot study by Schley and colleaguesall four participants who completed cannabinoid therapy over three months reported pain relief of more than 50%. In the retrospective chart review by Chung and colleaguesauthors simply stated that five out of six fibromyalgia patients reported continued pain relief.
+Only one study where the cannabinoid was administered as first line therapy examined changed in analgesic or opioid use. Rintala and colleaguesreported that 3 out of 7 (43%) participants with neuropathic pain following spinal cord injury used the rescue medication (a combination of 5 mg oxycodone and 325 mg acetaminophen) to manage breakthrough pain throughout the trial.
+4.2. Evidence for cannabinoids as second-line therapy in CNCP
+Of the 81 studies that evaluated cannabinoids as second line therapy in addition to existing medication, there was often little discussion of the role of other drugs and their potential role in the reported therapeutic outcomes and adverse events. This is important given that many of the drugs have their own benefit and side effect profile that may overlap with those for medicinal cannabis, making interpretation of the study data difficult.
+Of the studies that did describe other drug use, there was a varied picture depending on the primary pain condition. In studies examining medicinal cannabis in people with neuropathic pain, concomitant use of
+In studies that did describe other drug use, there was a varied picture depending on the primary pain condition. In studies examining medicinal cannabis in people with neuropathic pain, concomitant use of analgesics including paracetamol, carbamazepine, gabapentin, metamizole, pregabalin and opioids (e.g. hydromorphone, tramadol, morphine and codeine) was reported. Some studies also reported use of muscle relaxants (e.g. baclofen and clonazepam); non-steroidal anti-inflammatory drugs (NSAIDs; e.g. ibuprofen); and antidepressants (duloxetine, nortriptyline and clomipramine).
+For studies examining people with fibromyalgia, common concomitant medications included opioids (e.g. tramadol and tapentadol), antidepressants (e.g. serotonin–norepinephrine reuptake inhibitors (SNRIs; e.g. duloxetine and amitriptyline) and a wide range of other medications such as NSAIDs, anxiolytics, and myorelaxants.
+For the single study examining persons with arthritis, concomitant medications included NSAIDs, prednisone and disease-modifying antirheumatic drugs (DMARDs).
+For studies of people with mixed CNCP conditions, commonly used concomitant analgesics included opioids (e.g. methadone, morphine, oxycodone, hydrocodone, and hydromorphone); NSAIDs; paracetamol, and antidepressants.
+In studies of people with MS-related pain, concomitant medications also included anti-spasticity agents (e.g. baclofen, gabapentin and tizanidine); physiotherapy was also a cooccurring intervention in some studies.
+Several st
+MS-related pain, concomitant medications also included anti-spasticity agents (e.g. baclofen, gabapentin and tizanidine); physiotherapy was also a cooccurring intervention in some studies.
+Several studies of people with Parkinson's disease also reported patient use of anti-Parkinsonian medication such as co-careldopa, co-bendeldopa, ropinirole, pramipexole, pergolide and cabergoline.
+Changes in analgesic or opioid use were rarely measured in the studies where the cannabinoid was administered as a second line treatment. We have summarised the limited evidence in these studies in the following sections.
+Potential opioid-sparing effects of medicinal cannabis use in CNCP
+Two observational studies where cannabis sativa was administered as second line therapy in CNCP examined change in use of regular opioid medication[62,87]. Both studies examined cannabis sativa and were observational with no comparison group (one study was a crosssectional survey[62], the other was a prospective survey[87]); neither had a comparison group.
+The cross-sectional survey by Boehnke and colleagues[62] that examined cannabis sativa for CNCP reported that of the 185 people who completed the survey, the mean (SD) decrease in regular opioid medication use was 64% (45%) after using cannabis sativa.
+The prospective survey by Robinson and colleagues[87] that examined cannabis sativa for diabetes-related neuropathic pain reported that 8 out of 18 patients (44%) stopped using their opioid medication, and
+Prospective survey by Robinson and colleagues that examined cannabis sativa for diabetes-related neuropathic pain reported that 8 out of 18 patients (44%) stopped using their opioid medication, and the mean (SD) reduction of opioids, expressed in standard units was 4 (0.8).
+Potential other analgesic-sparing effects of medicinal cannabis use in CNCP
+Six studies where medicinal cannabis was administered as second line therapy for CNCP examined change in the use of other analgesic medication. Five studies were parallel randomised controlled trials, all of which examined change in use of analgesic medication for breakthrough pain when using nabiximols. These data were amenable to metaanalysis, and there was a significant reduction in the frequency of use of rescue analgesics (SMD -0.13, 95% CI -0.26 to -0.01, I2 =48%) when using nabiximols. Our confidence in this outcome was moderate.
+The observational study examined decrease in concomitant analgesic requirements using the Treatment Outcomes of Pain Survey (TOPS) among persons using THC extract for CNCP. Following treatment, the mean score (on a scale of 0-10, with lower scores indicating less reduction in analgesic requirements, and 10 indicating maximum reduction) was 3 (SD=3.6), indicating a marginal effect.
+Recommendation:
+Most evidence on medicinal cannabis use in CNCP is derived from studies where cannabinoids were adjuvant interventions. Cannabinoids should not replace curren
+Recommendation:
+Most evidence on medicinal cannabis use in CNCP is derived from studies where cannabinoids were adjuvant interventions. Cannabinoids should not replace current approved first-line treatments for pain and there is significant potential for drug interactions which needs further study.
+5. Summary of evidence of effects of medicinal cannabis use on physical functioning, emotional functioning and patients' global impression of change in CNCP patients
+Some of the included studies also presented data on outcomes for physical functioning (n=49 studies), emotional functioning (n=39 studies) and participant ratings of global improvement and satisfaction with treatment (n=24 studies). Summaries of these outcomes are provided in Tables 6-8.
+Patients receiving any cannabinoid reported no change in overall physical functioning compared with placebo on measures such as the General Health Questionnaire GHQ, the SF-36 and EQ-5D, see Table 6. There was some evidence that patients receiving nabilone had significantly improved physical functioning but confidence in this outcome was very low. The lack of consistency for some individual cannabinoids probably reflects the small number of trials and their small sample sizes.
+Patients receiving any medicinal cannabis product reported a significant reduction in sleep problems compared with placebo including sleep disturbance and poor sleep quality but confidence in this estimate was low Table 6. Reductio
+In the studies reviewed medicinal cannabis appeared to be well tolerated by CNCP patients for a limited time period, however patients who received medicinal cannabis were more likely to withdraw from the trials for any reason, includingbe
+The cleaned text is:
+abis appeared to be well tolerated by CNCP patients for a limited time period, however patients who received medicinal cannabis were more likely to withdraw from the trials for any reason, includingbecause of adverse events. Averaged across trials, CNCP patients who received a cannabinoid had two times the odds of withdrawing for any reason from a trial than patients who received placebo and they had 3.34 times the odds of withdrawing because of adverse events. CNCP patients receiving placebo were slightly more likely to withdraw from trials because of a lack of efficacy than those receiving medicinal cannabis. There was some variation between medicinal cannabis products in reasons for withdrawal. Recommendation Adverse effects of long term medicinal cannabis use is poorly understood. Long term studies are required to explore this issue. Reviewing a patient's response to medicinal cannabis Given the short duration of most clinical trials, there is little evidence to guide decisions about when to review treatment. Most randomised and clinical observational studies ran for less than 12 weeks, but a small number of observational studies evaluated safety and efficacy for twelve months or longer. These studies evaluated whether patients were still receiving therapeutic benefit from cannabinoids but they did not provide guidance on the circumstances in which patients should stop using the product. Recommendation In the absence of strong evidence for dosing and specifi
+Here is the preprocessed text after removing unnecessary spaces, special characters, and specific patterns:
+
+Benefit from cannabinoids but they did not provide guidance on the circumstances in which patients should stop using the product.
+Recommendation
+In the absence of strong evidence for dosing and specific preparations of cannabis or cannabinoids in the treatment of CNCP, it is recommended that any treating physician who elects to initiate cannabinoid therapy should assess response to treatment, effectiveness and adverse effects after 1 month. This is best achieved as part of a research project or clinical audit.
+8. Recommended process for auditing patient outcomes
+In the published evidence, the treatment outcomes that have been assessed in the effectiveness of medicinal cannabis in the treatment of CNCP include:
+These outcomes are based on recommendations by the IMMPACT group for more complete reporting of patient experience across a range of outcomes. They include the impact of pain and pain management on patient functioning and quality
+of life.
+9. Adverse events, drug-drug interactions, or patient groups for whom the product may pose particular risks
+Studies of adverse effects found that CNCP patients taking medicinal cannabis had 2.3 times the odds of experiencing an adverse event and 2.5 times the odds of a serious adverse event compared with taking placebo. These odds were significantly influenced by single studies of dronabinol and THCCBD extracts. Serious adverse events were reported in a smaller number of studies.
+An odds ratio is not estimable if there are no event
+The cleaned text is as follows:
+
+ignificantly influenced by single studies of dronabinol and THC:CBD extracts. Serious adverse events were reported in a smaller number of studies. An odds ratio is not estimable if there are no events in either the intervention or comparison group. There is little evidence to provide clinical guidance on drug-drug interactions. If cannabinoids are to be used in conjunction with other adjunctive therapies, clinicians and patients should be aware of common adverse events associated with cannabinoid use and consider whether these events are likely to interfere with quality of life beyond any reduction in pain produced by the cannabinoid. Recommendation: Pain patients and their prescribing clinicians should be aware of common adverse events such as dizziness, nausea, drowsiness, effects upon mood, cognition and attention. Clinicians considering medicinal cannabis therapy for CNCP patients should consider the individual's risks in using these products for long periods of time. Appendix 1. Study flowcharts Figure A1.1: Overall study PRISMA flowchart Figure A1.2: PRISMA flowchart for pain review of reviews Identification Screening Eligibility Full-text articles excluded, with reasons (n = 220) 27 = overview 5 = commentary 12 = cannabinoids not included in review 29 = does not review clinical studies in detail or include pain 2 = foreign language, material covered in English language reviews 19 = irrelevant 1 = protocol 14 = reviews of cannabinoid mechanisms or endocannabinoids
+clinical studies in detail or include pain
+2 = foreign language, material covered in English language reviews
+19 = irrelevant
+1 = protocol
+14 = reviews of cannabinoid mechanisms or endocannabinoids
+1 = review of preclinical studies
+1 = selective review covering new products
+126 = did not meet AMSTAR criteria 3 and 6
+Included
+Appendix 2. Quality of current evidence
+GRADE ratings of study methodology
+For all included studies, we assessed the underlying study methodology using GRADE ratings whereby randomised controlled trials started with a high rating and were downgraded if important limitations were identified in the study methodology, and observational studies started with a low rating and were upgraded if important strengths were identified.
+Of the 26 included parallel randomised controlled trials, 16 retained the high study methodology rating, and 10 were downgraded to a moderate rating for several reasons. This included small sample sizes, and potential selection bias due to inclusion criteria requiring participants to achieve at least a 20% reduction in pain outcomes after single blind treatment of the cannabinoid being tested.
+Of the 23 included randomised cross-over trials, 22 were downgraded to a moderate rating due to small sample sizes, and one was double downgraded to a low rating due to both a small sample size and a potential conflict of interest as the trial was funded by a pharmaceutical company.
+Of the 53 included observation
+The cleaned text after preprocessing is:
+
+One was double downgraded to a low rating due to both a small sample size and a potential conflict of interest as the trial was funded by a pharmaceutical company.
+Of the 53 included observational studies, none were upgraded and so retained the rating of low, and 22 were downgraded to very low for reasons including having a rating of 'serious' or 'critical' in at least one of the risk of bias domains (described below) and having very small sample sizes (such as case series and N-of-1 studies).
+Risk of bias in included studies
+We additionally assessed the risk of bias in included studies, using the Cochrane Collaboration risk of bias tools for randomised trials and observational studies. Randomised controlled trials were assessed for risk of bias across six domains: random sequence generation, allocation concealment, blinding of participants and providers (separately for objective and subjective outcomes), blinding of outcome assessors (separately for objective and subjective outcomes), incomplete outcome data and selective reporting.
+Observational studies were assessed as having either no risk, moderate risk, serious risk or critical risk across seven domains: bias due to confounding, bias in selection of participants into the study, bias in measurement of interventions, bias due to departure from intended interventions, bias due to missing data, bias in measurement of outcomes, and
+Risk of bias in randomised controlled trials
+Of the 49 studies that used a randomised controlled design (including 26 parallel and 23 cross-over randomised controlled trials), most studies were at low risk of bias for random sequence generation (n = 32 studies) and allocation concealment (n = 27 studies), with the remainder judged as unclear due to lack of information. Most studies had either low (n = 21) or unclear (n = 25) risk of bias for participant blinding, with only 3 judged as high risk (as participants correctly guessed their treatment). For blinding of outcome assessors, most studies had either low (n = 17) or unclear (n = 29) risk of bias, and 3 were judged as high risk as the outcome assessors were not blinded and were aware to the treatment participants were receiving. Outcome data were mostly complete in the included trials, with 30 studies judged as low risk and 16 as unclear risk for this domain. Three studies were judged to be of high risk for incomplete outcome data, due to substantial and differential dropout between the treatment and comparison groups. Most studies were of
+Three studies were judged to be of high risk for incomplete outcome data, due to substantial and differential dropout between the treatment and comparison groups. Most studies were of either low (n = 23) or unclear (n = 15) risk of bias due to selective reporting, however 11 studies were judged to be of high risk for this domain. Reasons for this high risk rating included omission of reporting of data on outcomes listed as being measured; omission of measures of statistical uncertainty (such as confidence intervals) or effect estimates from statistical tests; changes in selection of the primary endpoint after commencement of the study; or a lack of accounting for within-subjects effects in crossover studies. Risk of bias in observational studies Of the 53 included observational studies, 28 were at serious or critical risk of bias due to confounding, primarily due to a lack of adjustment for important domains such as selfselection, high dropout and other drug use. A similar number (n = 29) were at serious or critical risk of bias due to selection of participants into the study, most of whom were selected based on their existing use of cannabinoids. Almost half the studies (n = 25) were at low risk of bias for measurement of the intervention, however 13 were judged to be of serious risk of bias mostly due to poor definition of the cannabinoids studied and the doses used (particularly for studies where patients retrospectively self-reported their use of cannabinoids).
+The cleaned text is as follows:
+
+to be of serious risk of bias mostly due to poor definition of the cannabinoids studied and the doses used (particularly for studies where patients retrospectively self-reported their use of cannabinoids). Bias due to departure from the intended intervention was mostly not reported, and accordingly 32 studies were judged as having no information for this domain. Of studies where information was available, 15 were judged as having serious or critical risk due to substantial variations in participants' use of the cannabinoids over time (such as intermittent use), and lack of control for use of other substances. In 20 studies, there was insufficient information to determine risk of bias due to missing data, however where information was available, 23 were judged as being at serious or critical risk of bias due to very high dropout, lack of accounting for missing data in analyses, or analyses only being conducted on the small proportion of people who continued therapy. Bias in the measurement of interventions was serious or critical in 23 studies, mostly due to use of subjective measures when participants were unblinded to the treatments they were receiving. Bias due to selection of the reported result was serious or critical in 22 studies where authors only presented selective outcomes, or outcomes for select groups of participants. Overall, of the 53 observational studies, no studies were judged to be of low risk of bias, 6 were judged to be at a moderate risk of bias, 16 were
+Overall, of the 53 observational studies, no studies were judged to be of low risk of bias, 6 were judged to be at a moderate risk of bias, 16 were serious, 21 were critical and for 10 there was insufficient information available to make a judgement.
+Print version
+Provide feedback - external site
+Table: Cannabinoid product
+Nabiximols: Whole plant extract with specific concentration - each mL contains 2.7 mg THC and 2.5 mg CBD. Also reported as "Sativex". Liquid, Oromucosal spray, Standardised
+THC:CBD extracts: Combination of THC extract and CBD. Studies were classified as THC:CBD if no specific concentration
+Oromucosal spray Yes THC:CBD extracts Combination of THC extract and CBD. Studies were classified as THC:CBD if no specific concentration or ratio of THC:CBD was provided. Liquid Sublingual spray Yes THC:CBD extracts Combination of THC extract and CBD. Studies were classified as THC:CBD if no specific concentration or ratio of THC:CBD was provided. Capsule Oral Yes Dronabinol Synthetic cannabinoid derivate that mimics THC. Also referred to as Marinol; oral THC Capsule Oral Yes THC extract The active cannabinoid part of the cannabis plant. Also reported as Cannabis extract; cannabis sativa extract Liquid Sublingual spray Yes THC extract The active cannabinoid part of the cannabis plant. Also reported as Cannabis extract; cannabis sativa extract Capsule Oral Yes Nabilone Synthetic delta 9 THC Capsule
+Synthetic delta 9 THC Capsule Oral Yes
+CBD extract Active cannabinoid part of cannabis that does not have psychoactive effects. Also reported as cannabidiol Liquid Spray Yes
+Cannabis sativa Any plant-based cannabis product with variable THC%. Also reported as "herbal cannabis", "smoked cannabis", Bedrocan (THC high), Bedrobinal (THC medium) and Bediol (THC low) Herbal leaf Smoked, vapourised, eaten Not specified
+Ajulemic acid Synthetic cannabinoid derivative of the non-psychoactive THC metabolite 11-nor-9 carboxy- THC. Also reported as CT-3, AB-III, HU-239, IP-751, CPL 7075 and Resunab. Capsule Oral Yes
+
+Table:
+High We are very confident the true effect lies close to that of the estimate of the effect. 
+Moderate We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a p
+Here is the preprocessed text after removing unnecessary spaces, special characters, and specific patterns:
+
+The cleaned text should be:
+The cleaned text should be:
+ect lies close to that of the estimate of the effect.
+Moderate We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different
+Low Our confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect.
+Very low We have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect
+
+Table:
+Cannabinoid used (studies) Outcome Effect Evidence Grade
+Nabiximols (13) 30% reduction in pain No significant evidence of effect High
+Nabiximols (13) 50% reduction in pain No significant evidence of effect High
+Nabiximols (13) Change in pain scores Favours nabiximols Moderate
+Dronabinol (5) 30% reduction in pain No significant evidence of effect Moderate
+Dronabinol (5) 50% reduction in pain No significant evidence of effect Low
+Dronabinol (5) Change in pain scores No significant evidence of effect Moderate
+Nabilone (4) 30% reduction in pain Favours nabilone Very low
+Nabilone (4) 50% reduction in pain No significant evidence of effect
+After preprocessing the text, the cleaned version is:
+
+Moderate
+Nabilone 30% reduction in pain Favours nabilone Very low
+Nabilone 50% reduction in pain No significant evidence of effect Very low
+Nabilone Change in pain scores No significant evidence of effect Very low
+Cannabis sativa 30% reduction in pain Favours cannabis sativa Very low
+Cannabis sativa 50% reduction in pain No studies --
+Cannabis sativa Change in pain scores No significant evidence of effect Very low
+THC extract 30% reduction in pain No studies --
+THC extract 50% reduction in pain No studies --
+THC extract Change in pain scores Favours THC extract Moderate
+THC:CBD extract 30% reduction in pain Favours THC:CBD extract Moderate
+THC:CBD extract 50% reduction in pain No studies --
+THC:CBD extract Change in pain scores No significant evidence of effect Low
+CBD extract 30% reduction in pain No studies --
+CBD extract 50% reduction in pain No studies --
+CBD extract Change in pain scores No studies --
+CBD extract 50% reduction in pain No studies
+CBD extract Change in pain scores No studies
+Ajulemic acid 30% reduction in pain Favours Ajulemic acid Low
+Ajulemic acid 50% reduction in pain No significant evidence of effect Very low
+Ajulemic acid Change in pain scores No significant evidence of effect Very low
+Any cannabinoid 30% reduction in pain Favours cannabinoids Moderate
+Any cannabinoid 50% reduction in pain Favours cannabinoids Moderate
+Any cannabinoid Change in pain scores Favours cannabinoids Moderate
+Nabiximols 30% reduction in pain No studies
+Nabiximols 50% reduction in pain No studies
+Nabiximols Change in pain scores No studies
+Dronabinol 30% reduction in pain No studies
+Dronabinol 50% reduction in pain No studies
+Dronabinol Change in pain scores No studies
+Nabilone 30% reduction in pain No studies
+Nabilone 50% reduction in pain No studies
+Nabilone 90% reduction in pain No studies
+Nabilone (3) 30% reduction in pain No studies
+Nabilone (3) 50% reduction in pain No studies
+Nabilone (3) Change in pain scores No significant evidence of effect
+Cannabis sativa (3) 30% reduction in pain No studies
+Cannabis sativa (3) 50% reduction in pain No studies
+Cannabis sativa (3) Change in pain scores No significant evidence of effect
+THC extract (1) 30% reduction in pain No studies
+THC extract (1) 50% reduction in pain No significant evidence of effect
+THC extract (1) Change in pain scores No studies
+THC:CBD extract (1) 30% reduction in pain No studies
+THC:CBD extract (1) 50% reduction in pain No significant evidence of effect
+THC:CBD extract (1) Change in pain scores No studies
+CBD extract (1) 30% reduction in pain No studies
+CBD extract (1) 50% reduction in pain No significant evidence of effect
+CBD extract (1) Change in pain scores No studies
+Ajulemic acid (1) 30% reduction in pain No studies
+Ajulemic acid (1) 50% reduction in pain No studies
+Ajulemic acid (1) Change in pain scores No studies
+Any cannabinoid (7) 30% reduction in pain No studies
+Any cannabinoid (7) 50% reduction
+No studies
+Ajulemic acid (1) Change in pain scores                        No studies
+Any cannabinoid (7) 30% reduction in pain                        No studies
+Any cannabinoid (7) 50% reduction in pain No significant evidence of effect
+Any cannabinoid (7) Change in pain scores No significant evidence of effect
+
+Table:
+CNCP condition (studies)               Outcome      Effect Evidence Grade
+Neuropathic pain (8) 30% reduction in pain Cannabinoid Moderate
+MS-related (7) 30% reduction in pain Cannabinoid Low
+non-MS-related (1) 30% reduction in pain Neither Moderate
+Fibromyalgia (0) 30% reduction in pain -
+Arthritis (0) 30% reduction in pain -
+CNCP - mixed (2) 30% reduction in pain Cannabinoid Moderate
+MS-related CNCP (2) 30% reduction in pain Cannabinoid Moderate
+non-MS-related (0) 30% reduction in pain -
+Neuropathic pain (6) 50% reduction in pain Cannabinoid Moderate
+MS-related (2) 50% reduction in pain Neither Low
+non-MS-related (4) 50% reduction in pain Cannabinoid Low
+Fibromyalgia (0) 50% reduction in pain -
+Arthritis (0) 50% reduction in pain -
+CNCP (0) 50% reduction in pain -
+MS-related (0) 50% reduction in pain -
+Arthritis (0) 50% reduction in pain  
+                   CNCP (0) 50% reduction in pain  
+       ...MS-related (0) 50% reduction in pain  
+   ...non-MS-related (0) 50% reduction in pain  
+   Neuropathic pain (22) Change in pain scores Cannabinoid       Moderate  
+       ...MS-related (6) Change in pain scores Cannabinoid       Moderate  
+  ...non-MS-related (16) Change in pain scores Cannabinoid       Very low  
+        Fibromyalgia (1) Change in pain scores     Neither            Low  
+Rheumatoid arthritis (1) Change in pain scores     Neither            Low  
+               CNCP (10) Change in pain scores     Neither            Low  
+       ...MS-related (6) Change in pain scores     Neither       Very low  
+   ...non-MS-related (4) Change in pain scores     Neither            Low  
+  
+Table:  
+Cannabinoid used (studies)                      Outcome                            Effect Evidence Grade  
+            Nabiximols (9) Overall physical functioning No significant evidence of effect       Moderate  
+            Nabiximols (9)     Change in sleep problems                Favours nabiximols       Moderate  
+            Nabiximols (9)    Change in quality of life No significant evidence of effect           High  
+            Dronabinol (1) Overall physical functioning No significant evidence of effect            Low  
+            Dronabinol (1)     Change in sleep problems                        No studies
+Dronabinol (1) Overall physical functioning No significant evidence of effect Low
+Dronabinol (1) Change in sleep problems No studies -
+Dronabinol (1) Change in quality of life No studies -
+Nabilone (5) Overall physical functioning Favours nabilone Very low
+Nabilone (5) Change in sleep problems Favours nabilone Very low
+Nabilone (5) Change in quality of life Favours nabilone Very low
+Cannabis sativa (4) Overall physical functioning No significant evidence of effect Low
+Cannabis sativa (4) Change in sleep problems No significant evidence of effect Low
+Cannabis sativa (4) Change in quality of life No significant evidence of effect Low
+THC extract (4) Overall physical functioning No significant evidence of effect Very low
+THC extract (4) Change in sleep problems No significant evidence of effect Moderate
+THC extract (4) Change in quality of life No studies -
+THC:CBD extract (0) Overall physical functioning No studies -
+THC:CBD extract (0) Change in sleep problems No studies -
+THC:CBD extract (0)
+The cleaned text after preprocessing:
+Physical functioning No studies -
+THC:CBD extract (0) Change in sleep problems No studies -
+THC:CBD extract (0) Change in quality of life No studies -
+CBD extract (0) Overall physical functioning No studies -
+CBD extract (0) Change in sleep problems No studies -
+CBD extract (0) Change in quality of life No studies -
+Ajulemic acid (0) Overall physical functioning No studies -
+Ajulemic acid (0) Change in sleep problems No studies -
+Ajulemic acid (0) Change in quality of life No studies -
+Any cannabinoid (19) Overall physical functioning No significant evidence of effect Low
+Any cannabinoid (19) Change in sleep problems Favours cannabinoids Low
+Any cannabinoid (19) Change in quality of life No significant evidence of effect Very low
+
+Table:
+Cannabinoid used (studies) Outcome Effect Evidence Grade
+Nabiximols (2) Overall emotional functioning No significant evidence of effect Moderate
+Nabiximols (2) Depressive symptoms
+Effect Evidence Grade
+Nabiximols (2) Overall emotional functioning No significant evidence of effect Moderate
+Nabiximols (2) Depressive symptoms No significant evidence of effect Low
+Nabiximols (2) Anxiety symptoms No significant evidence of effect Low
+Dronabinol (1) Overall emotional functioning Favours dronabinol Low
+Dronabinol (1) Depressive symptoms No studies -
+Dronabinol (1) Anxiety symptoms No studies -
+Nabilone (3) Overall emotional functioning No significant evidence of effect Low
+Nabilone (3) Depressive symptoms No significant evidence of effect Low
+Nabilone (3) Anxiety symptoms No significant evidence of effect Very low
+Cannabis sativa (3) Overall emotional functioning No significant evidence of effect Low
+Cannabis sativa (3) Depressive symptoms No significant evidence of effect Moderate
+Cannabis sativa (3) Anxiety symptoms No studies -
+THC extract (0) Overall emotional functioning No studies -
+THC extract (0) Depressive symptoms No s
+THC extract  Overall emotional functioning No studies
+THC extract  Depressive symptoms No studies
+THC extract  Anxiety symptoms No studies
+THC:CBD extract  Overall emotional functioning No studies
+THC:CBD extract  Depressive symptoms No studies
+THC:CBD extract  Anxiety symptoms No studies
+CBD extract  Overall emotional functioning No studies
+CBD extract  Depressive symptoms No studies
+CBD extract  Anxiety symptoms No studies
+Ajulemic acid  Overall emotional functioning No studies
+Ajulemic acid  Depressive symptoms No studies
+Ajulemic acid  Anxiety symptoms No studies
+Any cannabinoid  Overall emotional functioning No significant evidence of effect Moderate
+Any cannabinoid  Depressive symptoms No significant evidence of effect Very low
+noid (7) Overall emotional functioning No significant evidence of effect Moderate
+Any cannabinoid (7) Depressive symptoms No significant evidence of effect Very low
+Any cannabinoid (7) Anxiety symptoms No significant evidence of effect Very low
+Table:
+Cannabinoid used (studies) Outcome Effect Evidence Grade
+Nabiximols (8) Global impression of change scale Favours nabiximols Moderate
+Nabiximols (8) Proportion reporting improvement Favours nabiximols Low
+Dronabinol (0) Global impression of change scale No studies -
+Dronabinol (0) Proportion reporting improvement No studies -
+Nabilone (2) Global impression of change scale No studies -
+Nabilone (2) Proportion reporting improvement Favours nabilone Low
+Cannabis sativa (2) Global impression of change scale Favours cannabis sativa Low
+Cannabis sativa (2) Proportion reporting improvement No studies -
+THC extract (1) Global impression of change scale No significant evidence of effect Low
+THC extract (1) Proportion reporting improvement No studi
+THC extract (1) Global impression of change scale No significant evidence of effect Low
+THC extract (1) Proportion reporting improvement No studies -
+THC:CBD extract (0) Global impression of change scale No studies -
+THC:CBD extract (0) Proportion reporting improvement No studies -
+CBD extract (0) Global impression of change scale No studies -
+CBD extract (0) Proportion reporting improvement No studies -
+Ajulemic acid (0) Global impression of change scale No studies -
+Ajulemic acid (0) Proportion reporting improvement No studies -
+Any cannabinoid (10) Global impression of change scale Favours cannabinoids Very low
+Any cannabinoid (10) Proportion reporting improvement Favours cannabinoids Low
+
+Table:
+Cannabinoid (N studies) Effect Evidence grade
+Withdrawal – any reason Withdrawal – any reason Withdrawal – any reason
+Lack of efficacy Lack of efficacy Lack of efficacy
+Nabiximols (10) More likely to withdraw from cannabinoid group Low
+Drona
+Lack of efficacy                               Lack of efficacy        Lack of efficacy
+Nabiximols 10 More likely to withdraw from cannabinoid group                     Low
+Dronabinol 2 More likely to withdraw from cannabinoid group                Moderate
+Nabilone 2                   No difference between groups                Very low
+Cannabis sativa 0                                             NaN
+THC extract 1                   No difference between groups                Moderate
+THC:CBD extract 0                                             NaN
+Ajulemic acid 1                   No difference between groups                Very low
+Any cannabinoid More likely to withdraw from cannabinoid group                Moderate
+Nabiximols 5                   No difference between groups                     Low
+Dronabinol 1     More likely to withdraw from placebo group                Moderate
+Nabilone 0                                             NaN
+Cannabis sativa 1                   No difference between groups                Very low
+THC extract 0                                             NaN
+THC:CBD extract 0                                             NaN
+Ajulemic acid 0
+THC:CBD extract
+Ajulemic acid
+Any cannabinoid More likely to withdraw from placebo group Very low
+
+Cannabinoid N studies Effect Evidence grade
+Adverse events Adverse events Adverse events
+Specific adverse events Specific adverse events Specific adverse events
+Nabiximols Cannabinoid group more likely to experience adverse events Low
+Dronabinol Cannabinoid group more likely to experience adverse events Low
+Nabilone No difference between groups Very low
+Cannabis sativa Not estimable Low
+THC extract Cannabinoid group more likely to experience adverse events Low
+THC:CBD extract
+Ajulemic acid
+THC:CBD extract (0)
+Ajulemic acid (0)
+Any cannabinoid Cannabinoid group more likely to experience adverse events Moderate
+Dizziness or vertigo (23) Cannabinoid group more likely to experience adverse events Low
+Depressed mood (6) Cannabinoid group more likely to experience adverse events Low
+Cognitive or attention disturbance (12) Cannabinoid group more likely to experience adverse events Very low
+Thought disturbance (6) Cannabinoid group more likely to experience adverse events Low
+Nausea (14) Cannabinoid group more likely to experience adverse events Low
+Drowsiness (19) Cannabinoid group more likely to experience adverse events Low
