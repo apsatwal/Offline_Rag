@@ -25,6 +25,13 @@ ollama pull llama3
 mkdir source_documents
 ```
 
+### Missing steps
+```
+pip install sentence_transformers
+pip install setuptools
+
+```
+
 ### Ingesting files
 
 ```shell
